@@ -1,6 +1,3 @@
-Here’s a `README.md` draft for the LAB-ROBO-ASSISTANT project:
-
-```markdown
 # LAB-ROBO-ASSISTANT
 
 LAB-ROBO-ASSISTANT is a robotic assistant developed to aid laboratory tasks and enhance efficiency. The project integrates AI and robotics to automate routine lab operations, assist with data handling, and ensure smooth workflows, making it ideal for educational and research lab environments.
@@ -78,5 +75,3 @@ For inquiries, suggestions, or further information, please reach out to:
 
 GitHub: [@Patiencewantae123](https://github.com/Patiencewantae123)
 ```
-
-This `README.md` provides an overview, setup instructions, and contact details for potential users and contributors. Let me know if you’d like to include more specific details!
